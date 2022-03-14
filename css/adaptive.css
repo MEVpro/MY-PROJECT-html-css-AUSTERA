@@ -1,0 +1,2113 @@
+
+/**********************ADAPTIVE***************************/
+
+@media (min-width: 66px) and (max-width: 115.98px){
+	.row{
+		justify-content: center;
+	}
+	div.container{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+/********************HEADER*******************************/
+	header{
+		height: auto;
+	}
+	header div.menu{
+		height: 40px;
+	}
+	header div.menu a.logo img{
+		display: block;
+		margin: 0 auto;
+		padding-top: 20px;
+		padding-left: 0px;
+		height: 10%;
+	}
+	header div.call-to h1{
+		margin-top: 10px;
+		font-size: 8px;
+	}
+	header div.call-to p{
+		font-size: 4px;
+		max-width: 90%;
+		margin: 10px auto;
+	}
+	header div.call-to a{
+		margin: 10px auto;
+		max-width: 45px;
+		height: 20px;
+		font-size: 4px;
+		line-height: 20px;
+	}
+/********************BLOCK-1*******************************/
+/*******************SECTION-1******************************/
+	section.section-1 h2{
+		font-size: 8px;
+		margin: 10px auto;
+		padding-bottom: 10px;
+	}
+	section.section-1 div.section-1 div img{
+ 		margin: 0 auto;
+ 		padding: 10px 0 0 0;
+ 		height: 50px;
+	}
+	section.section-1 div.section-1 div h3{
+		font-size: 8px;
+    	text-align: center;
+    	margin: 5px auto;
+	}
+	section.section-1 div.section-1 div p{
+    	text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	margin: 0px auto;
+    	font-size: 4px;
+    	line-height: 10px;
+	}
+	section.section-1 div.section-1 a{
+		font-size: 4px;
+		margin: 10px auto;
+		max-width: 45px;
+		height: 20px;
+		line-height: 16px;
+		border: 2px solid #fff;
+	}
+	section.section-1 div.section-1 span{
+		margin-top: 10px;
+	}
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div h3{
+		margin-top: 10px;
+		margin-bottom: 0px;
+	    font-size: 8px;
+    	text-align: center;
+    	color: #fff;
+	}
+	section.section-1 div.section-2 div p{
+		font-size: 4px;
+	    text-align: center;	
+    	color: #fff;
+    	padding: 0;
+    	margin: 10px auto;
+    	line-height: 10px;
+	}
+	section.section-1 div.section-2 div a{
+	    margin: 10px auto;
+		max-width: 45px;
+		height: 20px;
+		font-size: 6px;
+		line-height: 20px;
+		border: 2px solid #fff;
+	}
+	section.section-1 div.section-2 div{
+		max-width: 95%;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div h3{
+		margin-top: 10px;
+		margin-bottom: 0px;
+		text-align: center;
+		margin-left: 0px;
+		font-size: 8px;
+	}
+	section.section-1 div.section-3 div p{
+		font-size: 4px;
+	    text-align: center;	
+    	color: #fff;
+    	padding: 0;
+    	margin: 10px auto;
+    	line-height: 10px;
+	}
+	section.section-1 div.section-3 div a{
+		margin: 0 auto;
+	    border: 2px solid #fff;
+		max-width: 45px;
+		height: 20px;
+		font-size: 4px;
+		line-height: 20px;
+		background-color: rgba(0, 0, 0, 0);
+		color: #fff;
+	}
+	section.section-1 div.section-3 div {
+		margin-bottom: 10px;
+		max-width: 95%;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1{
+		background: url(../img/img-03.jpg);
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+	section.section-2 div.section-1 div h3{
+		font-size: 8px;
+		margin-left: 0px;
+		text-align: center;
+		margin-top: 10px;
+		margin-bottom: 0px;
+	}
+	section.section-2 div.section-1 div p{
+		font-size: 4px;
+	    text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	margin: 10px auto;
+    	line-height: 10px;
+    	font-weight: bold;
+	}
+	section.section-2 div.section-1 div a{
+		margin: 10px auto;
+		max-width: 45px;
+		height: 20px;
+		font-size: 4px;
+		line-height: 20px;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 8px;
+		text-align: center;
+		padding: 30px 10px;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 8px;
+		padding: 30px 10px;
+	}
+/********************BLOCK-4*******************************/
+	section.section-4 div.section-1{
+		margin-bottom: 0px;
+	}
+	section.section-4 div.section-1 div img{
+		display: block;
+		width: 40px;
+		margin-top: 10px;
+	}
+	section.section-4 div.section-1 div h3{
+		font-size: 8px;
+		text-align: center;
+		margin: 10px auto;
+	}
+	section.section-4 div.section-1 div h4{
+    	font-size: 8px;
+    	margin: 5px auto;
+	}
+	section.section-4 div.section-1 div p {
+	    font-size: 6px;
+	    text-align: center;
+	    margin-bottom: 10px;
+	    margin-top: 0px;
+	}
+	section.section-4 div.section-1 div a{
+		margin: 10px auto;
+		max-width: 45px;
+		height: 20px;
+		font-size: 4px;
+		line-height: 20px;
+	}
+/********************FOOTER*******************************/
+	footer div.menu-1{
+		height: auto;
+	}
+	footer div.section-1 div.web-form{
+		margin-top: 0px;
+		margin-left: 0px;
+
+	}
+	footer div.section-1 div h2{
+	    font-size: 8px;
+	    text-align: center;
+	    max-width: 80%;
+	    margin: 10px auto;
+	}	
+	footer div.section-1 div p.text1{
+		text-align: center;
+		margin: 0 auto;
+		font-size: 4px;
+	}
+	footer div.section-1 div p.text2{
+		text-align: center;
+		font-size: 4px;
+		margin: 10px auto;
+		max-width: 45px;
+	}
+	footer div.section-1 div ul{
+		max-width: 45px;
+		margin: 0 0;	
+	}
+
+	footer div.section-1 div ul li{
+		height: 12px;
+		width: 12px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	footer div.section-1 div ul li.img-05 img{
+		padding: 7px 5px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-06 img{
+		padding: 8px 13px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-07 img{
+		padding: 8px 10px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-08 img{
+		padding: 7px 6px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-09 img{
+		padding: 9px 7px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div textarea {
+		display: block;
+		margin: 10px auto;
+		max-width: 50px;
+		height: 40px;
+		font-size: 6px;
+		padding:5px ;
+
+	}
+	footer div.section-1 div.web-form a{
+		margin: 10px auto;
+		max-width: 50px;
+		height: 20px;
+		font-size: 6px;
+		line-height: 20px;
+	}
+	footer div.menu-2{
+		height: auto;
+	}
+	footer div.menu-2 div p{
+		text-align: center;
+		max-width: 70%;
+		margin: 10px auto;
+		font-size: 4px;
+		padding: 0;
+}
+}
+@media (min-width: 116px) and (max-width: 159.98px){
+	.row{
+		justify-content: center;
+	}
+	div.container{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+/********************HEADER*******************************/
+	header{
+		height: auto;
+	}
+	header div.menu{
+		height: 40px;
+	}
+	header div.menu a.logo img{
+		display: block;
+		margin: 0 auto;
+		padding-top: 20px;
+		padding-left: 0px;
+		height: 10%;
+	}
+	header div.call-to h1{
+		margin-top: 10px;
+		font-size: 10px;
+	}
+	header div.call-to p{
+		font-size: 6px;
+		max-width: 90%;
+		margin: 10px auto;
+	}
+	header div.call-to a{
+		margin: 10px auto;
+		max-width: 50px;
+		height: 20px;
+		font-size: 6px;
+		line-height: 20px;
+	}
+/********************BLOCK-1*******************************/
+/*******************SECTION-1******************************/
+	section.section-1 h2{
+		font-size: 10px;
+		margin: 10px auto;
+		padding-bottom: 10px;
+	}
+	section.section-1 div.section-1 div img{
+ 		margin: 0 auto;
+ 		padding: 10px 0 0 0;
+ 		height: 50px;
+	}
+	section.section-1 div.section-1 div h3{
+		font-size: 10px;
+    	text-align: center;
+    	margin: 5px auto;
+	}
+	section.section-1 div.section-1 div p{
+    	text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	margin: 0px auto;
+    	font-size: 6px;
+    	line-height: 10px;
+	}
+	section.section-1 div.section-1 a{
+		font-size: 6px;
+		margin: 10px auto;
+		max-width: 60px;
+		height: 20px;
+		line-height: 16px;
+		border: 2px solid #fff;
+	}
+	section.section-1 div.section-1 span{
+		margin-top: 10px;
+	}
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div h3{
+		margin-top: 10px;
+		margin-bottom: 0px;
+	    font-size: 10px;
+    	text-align: center;
+    	color: #fff;
+	}
+	section.section-1 div.section-2 div p{
+		font-size: 6px;
+	    text-align: center;	
+    	color: #fff;
+    	padding: 0;
+    	margin: 10px auto;
+    	line-height: 10px;
+	}
+	section.section-1 div.section-2 div a{
+	    margin: 10px auto;
+		max-width: 50px;
+		height: 20px;
+		font-size: 6px;
+		line-height: 20px;
+		border: 2px solid #fff;
+	}
+	section.section-1 div.section-2 div{
+		max-width: 95%;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div h3{
+		margin-top: 10px;
+		margin-bottom: 0px;
+		text-align: center;
+		margin-left: 0px;
+		font-size: 10px;
+	}
+	section.section-1 div.section-3 div p{
+		font-size: 6px;
+	    text-align: center;	
+    	color: #fff;
+    	padding: 0;
+    	margin: 10px auto;
+    	line-height: 10px;
+	}
+	section.section-1 div.section-3 div a{
+		margin: 0 auto;
+	    border: 2px solid #fff;
+		max-width: 50px;
+		height: 20px;
+		font-size: 6px;
+		line-height: 20px;
+		background-color: rgba(0, 0, 0, 0);
+		color: #fff;
+	}
+	section.section-1 div.section-3 div {
+		margin-bottom: 10px;
+		max-width: 95%;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1{
+		background: url(../img/img-03.jpg);
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+	section.section-2 div.section-1 div h3{
+		font-size: 10px;
+		margin-left: 0px;
+		text-align: center;
+		margin-top: 10px;
+		margin-bottom: 0px;
+	}
+	section.section-2 div.section-1 div p{
+		font-size: 6px;
+	    text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	margin: 10px auto;
+    	line-height: 10px;
+    	font-weight: bold;
+	}
+	section.section-2 div.section-1 div a{
+		margin: 10px auto;
+		max-width: 50px;
+		height: 20px;
+		font-size: 6px;
+		line-height: 20px;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 10px;
+		text-align: center;
+		padding: 30px 10px;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 10px;
+		padding: 30px 10px;
+	}
+/********************BLOCK-4*******************************/
+	section.section-4 div.section-1{
+		margin-bottom: 0px;
+	}
+	section.section-4 div.section-1 div img{
+		display: block;
+		width: 70px;
+		margin-top: 10px;
+	}
+	section.section-4 div.section-1 div h3{
+		font-size: 12px;
+		text-align: center;
+		margin: 10px auto;
+	}
+	section.section-4 div.section-1 div h4{
+    	font-size: 12px;
+    	margin: 5px auto;
+	}
+	section.section-4 div.section-1 div p {
+	    font-size: 8px;
+	    text-align: center;
+	    margin-bottom: 10px;
+	    margin-top: 0px;
+	}
+	section.section-4 div.section-1 div a{
+		margin: 10px auto;
+		max-width: 50px;
+		height: 20px;
+		font-size: 6px;
+		line-height: 20px;
+	}
+/********************FOOTER*******************************/
+	footer div.menu-1{
+		height: auto;
+	}
+	footer div.section-1 div.web-form{
+		margin-top: 0px;
+		margin-left: 0px;
+
+	}
+	footer div.section-1 div h2{
+	    font-size: 8px;
+	    text-align: center;
+	    max-width: 80%;
+	    margin: 10px auto;
+	}	
+	footer div.section-1 div p.text1{
+		text-align: center;
+		margin: 0 auto;
+		font-size: 6px;
+	}
+	footer div.section-1 div p.text2{
+		text-align: center;
+		font-size: 6px;
+		margin: 10px auto;
+		max-width: 100px;
+	}
+	footer div.section-1 div ul{
+		max-width: 100px;
+		margin: 0 0;	
+	}
+
+	footer div.section-1 div ul li{
+		height: 15px;
+		width: 15px;
+		margin-left: 0px;
+		margin-right: 1px;
+	}
+	footer div.section-1 div ul li.img-05 img{
+		padding: 7px 5px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-06 img{
+		padding: 8px 13px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-07 img{
+		padding: 8px 10px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-08 img{
+		padding: 7px 6px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-09 img{
+		padding: 9px 7px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div textarea {
+		display: block;
+		margin: 10px auto;
+		max-width: 100px;
+		height: 40px;
+		font-size: 6px;
+		padding:5px ;
+
+	}
+	footer div.section-1 div.web-form a{
+		margin: 10px auto;
+		max-width: 50px;
+		height: 20px;
+		font-size: 6px;
+		line-height: 20px;
+	}
+	footer div.menu-2{
+		height: auto;
+	}
+	footer div.menu-2 div p{
+		text-align: center;
+		max-width: 70%;
+		margin: 10px auto;
+		font-size: 4px;
+		padding: 0;
+}
+}
+@media (min-width: 160px) and (max-width: 259.98px){
+	.row{
+		justify-content: center;
+	}
+	div.container{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+/********************HEADER*******************************/
+	header{
+		height: auto;
+	}
+	header div.menu{
+		height: 50px;
+	}
+	header div.menu a.logo img{
+		display: block;
+		margin: 0 auto;
+		padding-top: 20px;
+		padding-left: 0px;
+		height: 25%;
+	}
+	header div.call-to h1{
+		margin-top: 0px;
+		font-size: 24px;
+	}
+	header div.call-to p{
+		font-size: 12px;
+		max-width: 90%;
+		margin: 20px auto;
+	}
+	header div.call-to a{
+		margin: 20px auto;
+		max-width: 100px;
+		height: 30px;
+		font-size: 12px;
+		line-height: 30px;
+	}
+/********************BLOCK-1*******************************/
+/*******************SECTION-1******************************/
+	section.section-1 h2{
+		font-size: 20px;
+		margin: 10px auto;
+		padding-bottom: 10px;
+	}
+	section.section-1 div.section-1 div img{
+ 		margin: 0 auto;
+ 		padding: 20px 0 0 0;
+ 		height: 50px;
+	}
+	section.section-1 div.section-1 div h3{
+		font-size: 18px;
+    	text-align: center;
+    	margin: 5px auto;
+	}
+	section.section-1 div.section-1 div p{
+    	text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	margin: 0px auto;
+    	font-size: 12px;
+    	line-height: 15px;
+	}
+	section.section-1 div.section-1 a{
+		font-size: 10px;
+		margin: 10px auto;
+		max-width: 100px;
+		height: 30px;
+		font-size: 10px;
+		line-height: 25px;
+		border: 2px solid #fff;
+	}
+	section.section-1 div.section-1 span{
+		margin-top: 10px;
+	}
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div h3{
+		margin-top: 20px;
+		margin-bottom: 0px;
+	    font-size: 18px;
+    	text-align: center;
+    	color: #fff;
+	}
+	section.section-1 div.section-2 div p{
+		font-size: 12px;
+	    text-align: center;	
+    	color: #fff;
+    	padding: 0;
+    	margin: 10px auto;
+    	line-height: 15px;
+	}
+	section.section-1 div.section-2 div a{
+	    margin: 10px auto;
+		max-width: 100px;
+		height: 30px;
+		font-size: 12px;
+		line-height: 30px;
+		border: 2px solid #fff;
+	}
+	section.section-1 div.section-2 div{
+		max-width: 95%;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div h3{
+		margin-top: 20px;
+		margin-bottom: 0px;
+		text-align: center;
+		margin-left: 0px;
+		font-size: 20px;
+	}
+	section.section-1 div.section-3 div p{
+		font-size: 12px;
+	    text-align: center;	
+    	color: #fff;
+    	padding: 0;
+    	margin: 10px auto;
+    	line-height: 15px;
+	}
+	section.section-1 div.section-3 div a{
+		margin: 0 auto;
+	    border: 2px solid #fff;
+		max-width: 100px;
+		height: 30px;
+		font-size: 12px;
+		line-height: 30px;
+		background-color: rgba(0, 0, 0, 0);
+		color: #fff;
+	}
+	section.section-1 div.section-3 div {
+		margin-bottom: 20px;
+		max-width: 95%;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1{
+		background: url(../img/img-03.jpg);
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+	section.section-2 div.section-1 div h3{
+		font-size: 20px;
+		margin-left: 0px;
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 0px;
+	}
+	section.section-2 div.section-1 div p{
+		font-size: 12px;
+	    text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	margin: 10px auto;
+    	line-height: 15px;
+    	font-weight: bold;
+	}
+	section.section-2 div.section-1 div a{
+		margin: 20px auto;
+		max-width: 100px;
+		height: 30px;
+		font-size: 12px;
+		line-height: 30px;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 18px;
+		text-align: center;
+		padding: 40px 15px;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 18px;
+		padding: 40px 15px;
+	}
+/********************BLOCK-4*******************************/
+	section.section-4 div.section-1{
+		margin-bottom: 30px;
+	}
+	section.section-4 div.section-1 div img{
+		display: block;
+		width: 100px;
+		margin-top: 20px;
+	}
+	section.section-4 div.section-1 div h3{
+		font-size: 18px;
+		text-align: center;
+		margin: 20px auto;
+	}
+	section.section-4 div.section-1 div h4{
+    	font-size: 24px;
+    	margin: 5px auto;
+	}
+	section.section-4 div.section-1 div p {
+	    font-size: 14px;
+	    text-align: center;
+	    margin-bottom: 20px;
+	    margin-top: 0px;
+	}
+	section.section-4 div.section-1 div a{
+		margin: 20px auto;
+		max-width: 100px;
+		height: 30px;
+		font-size: 12px;
+		line-height: 30px;
+	}
+/********************FOOTER*******************************/
+	footer div.menu-1{
+		height: auto;
+	}
+	footer div.section-1 div.web-form{
+		margin-top: 0px;
+		margin-left: 0px;
+
+	}
+	footer div.section-1 div h2{
+	    font-size: 20px;
+	    text-align: center;
+	    max-width: 80%;
+	    margin: 20px auto;
+	}	
+	footer div.section-1 div p.text1{
+		text-align: center;
+		margin: 0 auto;
+		font-size: 12px;
+	}
+	footer div.section-1 div p.text2{
+		text-align: center;
+		font-size: 12px;
+		margin: 20px auto;
+		max-width: 150px;
+	}
+	footer div.section-1 div ul{
+		max-width: 160px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li{
+		height: 20px;
+		width: 20px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	footer div.section-1 div ul li.img-05 img{
+		padding: 7px 5px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-06 img{
+		padding: 8px 13px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-07 img{
+		padding: 8px 10px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-08 img{
+		padding: 7px 6px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li.img-09 img{
+		padding: 9px 7px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div textarea {
+		display: block;
+		margin: 20px auto;
+		max-width: 100px;
+		height: 40px;
+		font-size: 10px;
+
+	}
+	footer div.section-1 div.web-form a{
+		margin: 10px auto;
+		max-width: 100px;
+		height: 30px;
+		font-size: 10px;
+		line-height: 30px;
+	}
+	footer div.container-fluid nav ul li{
+		margin-top: 10px;
+	}
+	footer div.container-fluid nav ul li a{
+		font-size: 16px;
+		margin-right: 5px;
+	}
+	footer div.menu-2{
+		height: auto;
+	}
+	footer div.menu-2 div p{
+		text-align: center;
+		max-width: 70%;
+		margin: 20px auto;
+		font-size: 8px;
+		padding: 0;
+	}
+}
+@media (min-width: 260px) and (max-width: 359.98px){
+	.row{
+		justify-content: center;
+	}
+	div.container{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+/********************HEADER*******************************/
+	header{
+		height: auto;
+	}
+	header div.menu a.logo img{
+		display: block;
+		margin: 0 auto;
+		padding-top: 40px;
+		padding-left: 0px;
+		height: 20%;
+	}
+	header nav ul li{
+		margin-top: 25px;
+		margin-right: 10px;
+	}
+	header nav ul li a{
+		font-size: 14px;
+	}
+	header div.call-to h1{
+		margin-top: 30px;
+		font-size: 40px;
+	}
+	header div.call-to p{
+		font-size: 16px;
+		max-width: 90%;
+		margin: 20px auto;
+	}
+	header div.call-to a{
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+/********************BLOCK-1*******************************/
+/*******************SECTION-1******************************/
+	section.section-1 h2{
+		font-size: 32px;
+		margin: 30px auto;
+		padding-bottom: 30px;
+	}
+	section.section-1 div.section-1 div img{
+ 		margin: auto;
+ 		padding: 0;
+	}
+	section.section-1 div.section-1 div h3{
+    	text-align: center;
+    	margin-top: 30px;	
+	}
+	section.section-1 div.section-1 div p{
+    	text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	margin: 10px auto;
+	}
+	section.section-1 div.section-1 a{
+		margin-top: 20px;
+		border: 2px solid #fff;
+
+	}
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+	    font-size: 24px;
+	    text-align: center;
+	}
+	section.section-1 div.section-2 div img{
+		display: block;
+		margin-left: 0px;
+		margin-top: 50px;
+		height: auto;
+	}
+	section.section-1 div.section-2 div p{
+	    text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	margin: 10px auto;
+
+	}
+	section.section-1 div.section-2 div a{
+	    margin: 0 auto;
+	    border: 2px solid #fff;
+	}
+	section.section-1 div.section-2 div{
+		max-width: 95%;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div img{
+		margin-top: 50px;
+	}
+	section.section-1 div.section-3 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+		text-align: center;
+		margin-left: 0px;
+		font-size: 24px;
+	}
+	section.section-1 div.section-3 div p{
+		text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	margin: 10px auto;
+		
+	}
+	section.section-1 div.section-3 div a{
+		margin: 0 auto;
+	}
+	section.section-1 div.section-3 div {
+		margin-bottom: 50px;
+		max-width: 95%;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1{
+		background: url(../img/img-03.jpg);
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+	section.section-2 div.section-1 div h3{
+		font-size: 28px;
+		margin-left: 0px;
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 0px;
+	}
+	section.section-2 div.section-1 div p{
+		margin: 10px auto;
+		text-align: center;
+		color: #000;
+	}
+	section.section-2 div.section-1 div a{
+		margin: 30px auto;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 18px;
+		text-align: center;
+		padding: 40px 15px;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 18px;
+		padding: 40px 15px;
+	}
+/********************BLOCK-4*******************************/
+	section.section-4 div.section-1{
+		margin-bottom: 30px;
+	}
+	section.section-4 div.section-1 div img{
+		display: block;
+		margin-top: 20px;
+	}
+	section.section-4 div.section-1 div h3{
+		font-size: 30px;
+		text-align: center;
+		max-width: 70%;
+		margin: 20px auto;
+	}
+	section.section-4 div.section-1 div h4{
+    	font-size: 30px;
+    	margin: 5px auto;
+	}
+	section.section-4 div.section-1 div p {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0px;
+	}
+/********************FOOTER*******************************/
+	footer div.menu-1{
+		height: auto;
+	}
+	footer div.section-1 div.web-form{
+		margin-top: 0px;
+		margin-left: 0px;
+
+	}
+	footer div.section-1 div h2{
+	    font-size: 24px;
+	    text-align: center;
+	    margin-top: 20px;
+	}	
+	footer div.section-1 div p.text1{
+		text-align: center;
+		margin-top: 25px;
+	}
+	footer div.section-1 div p.text2{
+		text-align: center;
+		font-size: 18px;
+		margin: 20px auto;
+		max-width: 247px;
+	}
+	footer div.section-1 div ul{
+		max-width: 200px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li{
+		height: auto;
+		width: auto;
+		margin: 0 auto;	
+	}
+	footer div.section-1 div ul li img{
+		margin: 0 auto;
+	}
+	footer div.section-1 div textarea {
+		display: block;
+		margin: 0 auto;
+		max-width: 200px;
+		height: 50px;
+	}
+	footer div.section-1 div.web-form a{
+		margin: 20px auto;
+	}
+	footer div.container-fluid nav ul li{
+		margin-top: 10px;
+	}
+	footer div.container-fluid nav ul li a{
+		font-size: 16px;
+		margin-right: 5px;
+	}
+	footer div.menu-2 div p{
+		text-align: center;
+		max-width: 50%;
+		margin: 0 auto;
+	}
+}	
+@media (min-width: 360px) and (max-width: 459.98px){
+/**********************BODY*******************************/	
+	.row{
+		justify-content: center;
+	}
+	div.container{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+/********************HEADER*******************************/
+	header{
+		height: auto;
+	}
+	header div.menu a.logo img{
+		display: block;
+		margin: 0 auto;
+		padding-top: 40px;
+		padding-left: 0px;
+		height: 20%;
+	}
+	header nav ul li{
+		margin-top: 25px;
+		margin-right: 10px;
+	}
+	header nav ul li a{
+		font-size: 14px;
+	}
+	header div.call-to h1{
+		margin-top: 30px;
+		font-size: 40px;
+	}
+	header div.call-to p{
+		font-size: 16px;
+		max-width: 90%;
+		margin: 20px auto;
+	}
+	header div.call-to a{
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+/********************BLOCK-1*******************************/
+/*******************SECTION-1******************************/
+	section.section-1 h2{
+		font-size: 32px;
+		margin: 30px auto;
+		padding-bottom: 30px;
+	}
+	section.section-1 div.section-1 div img{
+ 		margin: auto;
+ 		padding: 0;
+	}
+	section.section-1 div.section-1 div h3{
+    	text-align: center;
+    	margin-top: 30px;	
+	}
+	section.section-1 div.section-1 div p{
+    	text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	max-width: 95%;
+    	margin: 10px auto;
+	}
+	section.section-1 div.section-1 a{
+		margin-top: 20px;
+		border: 2px solid #fff;
+
+	}
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+	    font-size: 24px;
+	    text-align: center;
+	}
+	section.section-1 div.section-2 div img{
+		display: block;
+		margin-left: 0px;
+		margin-top: 50px;
+		height: auto;
+	}
+	section.section-1 div.section-2 div p{
+	    text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	max-width: 95%;
+    	margin: 10px auto;
+
+	}
+	section.section-1 div.section-2 div a{
+	    margin: 0 auto;
+	    border: 2px solid #fff;
+	}
+	section.section-1 div.section-2 div{
+		max-width: 95%;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div img{
+		margin-top: 50px;
+	}
+	section.section-1 div.section-3 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+		text-align: center;
+		margin-left: 0px;
+		font-size: 24px;
+	}
+	section.section-1 div.section-3 div p{
+		text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	max-width: 95%;
+    	margin: 10px auto;
+		
+	}
+	section.section-1 div.section-3 div a{
+		margin: 0 auto;
+	}
+	section.section-1 div.section-3 div {
+		margin-bottom: 50px;
+		max-width: 95%;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1{
+		background: url(../img/img-03.jpg);
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+	section.section-2 div.section-1 div h3{
+		font-size: 28px;
+		margin-left: 0px;
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 0px;
+	}
+	section.section-2 div.section-1 div p{
+		margin: 10px auto;
+		text-align: center;
+		color: #000;
+	}
+	section.section-2 div.section-1 div a{
+		margin: 30px auto;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 18px;
+		text-align: center;
+		padding: 40px 15px;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 18px;
+		padding: 40px 15px;
+	}
+/********************BLOCK-4*******************************/
+	section.section-4 div.section-1{
+		margin-bottom: 30px;
+	}
+	section.section-4 div.section-1 div img{
+		display: block;
+		margin-top: 20px;
+	}
+	section.section-4 div.section-1 div h3{
+		font-size: 30px;
+		text-align: center;
+		max-width: 70%;
+		margin: 20px auto;
+	}
+	section.section-4 div.section-1 div h4{
+    	font-size: 30px;
+    	margin: 5px auto;
+	}
+	section.section-4 div.section-1 div p {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0px;
+	}
+/********************FOOTER*******************************/
+	footer div.menu-1{
+		height: auto;
+	}
+	footer div.section-1 div.web-form{
+		margin-top: 0px;
+		margin-left: 0px;
+
+	}
+	footer div.section-1 div h2{
+	    font-size: 32px;
+	    text-align: center;
+	    margin-top: 20px;
+	}	
+	footer div.section-1 div p.text1{
+		text-align: center;
+		margin-top: 25px;
+	}
+	footer div.section-1 div p.text2{
+		text-align: center;
+		font-size: 18px;
+		margin: 20px auto;
+		max-width: 330px;
+	}
+	footer div.section-1 div ul{
+		max-width: 330px;
+		margin: 0 auto;
+	}
+	footer div.section-1 div ul li{
+		height: auto;
+		width: auto;
+		margin: 0 auto;	
+	}
+	footer div.section-1 div ul li img{
+		margin: 0 auto;
+	}
+	footer div.section-1 div textarea {
+		display: block;
+		margin: 0 auto;
+		max-width: 300px;
+		height: 50px;
+	}
+	footer div.section-1 div.web-form a{
+		margin: 20px auto;
+	}
+	footer div.container-fluid nav ul li{
+		margin-top: 10px;
+	}
+	footer div.container-fluid nav ul li a{
+		font-size: 16px;
+		margin-right: 5px;
+	}
+	footer div.menu-2 div p{
+		text-align: center;
+		max-width: 50%;
+		margin: 0 auto;
+	}
+}	
+@media (min-width: 460px) and (max-width: 575.98px){
+/**********************BODY*******************************/	
+	.row{
+		justify-content: center;
+	}
+	div.container{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+/********************HEADER*******************************/
+	header{
+		height: auto;
+	}
+	header div.menu a.logo img{
+		display: block;
+		margin: 0 auto;
+		padding-top: 40px;
+		padding-left: 0px;
+		height: 20%;
+	}
+	header nav ul li{
+		margin-top: 25px;
+		margin-right: 10px;
+	}
+	header nav ul li a{
+		font-size: 14px;
+	}
+	header div.call-to h1{
+		margin-top: 50px;
+		font-size: 40px;
+	}
+	header div.call-to p{
+		font-size: 16px;
+		max-width: 90%;
+		margin: 20px auto;
+	}
+	header div.call-to a{
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+/********************BLOCK-1*******************************/
+/*******************SECTION-1******************************/
+	section.section-1 h2{
+		margin: 30px auto;
+		padding-bottom: 30px;
+	}
+	section.section-1 div.section-1 div img{
+ 		margin: auto;
+ 		padding: 0;
+	}
+	section.section-1 div.section-1 div h3{
+    	text-align: center;
+    	margin-top: 30px;	
+	}
+	section.section-1 div.section-1 div p{
+    	text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	max-width: 95%;
+    	margin: 10px auto;
+	}
+	section.section-1 div.section-1 a{
+		margin-top: 20px;
+		border: 2px solid #fff;
+
+	}
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+	    font-size: 24px;
+	    text-align: center;
+	}
+	section.section-1 div.section-2 div img{
+		display: block;
+		margin-left: 0px;
+		margin-top: 50px;
+		height: auto;
+	}
+	section.section-1 div.section-2 div p{
+	    text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	max-width: 95%;
+    	margin: 10px auto;
+
+	}
+	section.section-1 div.section-2 div a{
+	    margin: 0 auto;
+	    border: 2px solid #fff;
+	}
+	section.section-1 div.section-2 div{
+		max-width: 95%;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div img{
+		margin-top: 50px;
+	}
+	section.section-1 div.section-3 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+		text-align: center;
+		margin-left: 0px;
+		font-size: 24px;
+	}
+	section.section-1 div.section-3 div p{
+		text-align: center;	
+    	color: #000;
+    	padding: 0;
+    	max-width: 95%;
+    	margin: 10px auto;
+		
+	}
+	section.section-1 div.section-3 div a{
+		margin: 0 auto;
+	}
+	section.section-1 div.section-3 div {
+		margin-bottom: 50px;
+		max-width: 95%;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1{
+		background: url(../img/img-03.jpg);
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+	section.section-2 div.section-1 div h3{
+		font-size: 28px;
+		margin-left: 0px;
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 0px;
+	}
+	section.section-2 div.section-1 div p{
+		margin: 10px auto;
+		text-align: center;
+		color: #000;
+	}
+	section.section-2 div.section-1 div a{
+		margin: 30px auto;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 18px;
+		text-align: center;
+		padding: 40px 15px;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 18px;
+		padding: 40px 15px;
+	}
+/********************BLOCK-4*******************************/
+	section.section-4 div.section-1{
+		margin-bottom: 30px;
+	}
+	section.section-4 div.section-1 div img{
+		display: block;
+		margin-top: 20px;
+	}
+	section.section-4 div.section-1 div h3{
+		font-size: 30px;
+		text-align: center;
+		max-width: 70%;
+		margin: 20px auto;
+	}
+	section.section-4 div.section-1 div h4{
+    	font-size: 30px;
+    	margin: 5px auto;
+	}
+	section.section-4 div.section-1 div p {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0px;
+	}
+/********************FOOTER*******************************/
+	footer div.menu-1{
+		height: auto;
+	}
+	footer div.section-1 div.web-form{
+		margin-top: 0px;
+		margin-left: 0px;
+
+	}
+	footer div.section-1 div h2{
+	    font-size: 40px;
+	    text-align: center;
+	    margin-top: 70px;
+	}	
+	footer div.section-1 div p.text1{
+		text-align: center;
+		margin-top: 25px;
+	}
+	footer div.section-1 div p.text2{
+		text-align: center;
+		font-size: 28px;
+		margin: 30px auto;
+		max-width: 385px;
+	}
+	footer div.section-1 div ul{
+		/*margin-left: 100px;
+    	margin-top: 30px;
+    	margin-bottom: 30px;*/
+    	display: block;
+		margin: 30px auto;
+		max-width: 350px;
+		height: 50px;
+	}
+	footer div.section-1 div ul li{
+		margin-right: 5px;
+	}
+	footer div.section-1 div textarea {
+		display: block;
+		margin: 0 auto;
+		max-width: 350px;
+		height: 50px;
+	}
+	footer div.section-1 div.web-form a{
+		margin: 30px auto;
+	}
+	footer div.container-fluid nav ul li{
+		margin-top: 10px;
+	}
+	footer div.container-fluid nav ul li a{
+		font-size: 16px;
+		margin-right: 5px;
+	}
+	footer div.menu-2 div p{
+		text-align: center;
+		max-width: 50%;
+		margin: 0 auto;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*******************HEADER******************************/
+	header{
+		height: auto;
+	}
+	header div.menu a.logo img{
+		padding-top: 40px;
+		padding-left: 20px;
+		height: 20%;
+	}
+	header nav ul li{
+		margin-top: 25px;
+		margin-right: 10px;
+	}
+	header nav ul li a{
+		font-size: 14px;
+	}
+	header div.call-to h1{
+		margin-top: 50px;
+		font-size: 40px;
+	}
+	header div.call-to p{
+		font-size: 16px;
+	}
+	header div.call-to a{
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+/********************BLOCK-1******************************
+/*******************SECTION-1******************************/
+	section.section-1 h2{
+		margin: 30px auto;
+		padding-bottom: 30px;
+	}
+	section.section-1 div.section-1 div img{
+ 		margin: auto;
+ 		padding: 0;
+	}
+	section.section-1 div.section-1 div h3{
+    	text-align: center;
+    	margin-top: 30px;	
+	}
+	section.section-1 div.section-1 div p{
+    	text-align: center;	
+    	color: #000;
+	}
+	section.section-1 div.section-1 a{
+		margin-top: 20px;
+
+	}
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+	    font-size: 24px;
+	    text-align: center;
+	}
+	section.section-1 div.section-2 div img{
+		display: block;
+		margin-left: 0px;
+		margin-top: 50px;
+		max-width: 100%;
+		height: auto;
+	}
+	section.section-1 div.section-2 div p{
+	    text-align: center;
+	    padding-right: 0px;
+	    color: #000;
+	    font-size: 12px;
+	}
+	section.section-1 div.section-2 div a{
+	    margin: 0 auto;
+	    border: 2px solid #fff;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div img{
+		margin-top: 50px;
+	}
+	section.section-1 div.section-3 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+		text-align: center;
+		margin-left: 0px;
+		font-size: 24px;
+	}
+	section.section-1 div.section-3 div p{
+		margin-top: 0px;
+		text-align: center;
+		margin-left: 0px;
+	}
+	section.section-1 div.section-3 div a{
+		margin: 0 auto;
+	}
+	section.section-1 div.section-3 div {
+		margin-bottom: 50px;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1{
+		background: url(../img/img-03.jpg);
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+	section.section-2 div.section-1 div h3{
+		font-size: 28px;
+		margin-left: 0px;
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 0px;
+	}
+	section.section-2 div.section-1 div p{
+		margin: 10px auto;
+		text-align: center;
+		color: #000;
+	}
+	section.section-2 div.section-1 div a{
+		margin: 30px auto;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 18px;
+		text-align: center;
+		padding: 40px 15px;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 18px;
+		padding: 40px 15px;
+	}
+/********************BLOCK-4*******************************/
+	section.section-4 div.section-1{
+		margin-bottom: 30px;
+	}
+	section.section-4 div.section-1 div img{
+		display: block;
+		width: 150px;
+		height: 150px;
+		margin-top: 20px;
+	}
+	section.section-4 div.section-1 div h3{
+		font-size: 30px;
+		text-align: center;
+		max-width: 100%;
+		margin: 20px auto;
+	}
+	section.section-4 div.section-1 div h4{
+    	font-size: 20px;
+    	margin: 5px auto;
+	}
+	section.section-4 div.section-1 div p {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+/********************FOOTER*******************************/
+	footer div.menu-1{
+		height: auto;
+	}
+	footer div.section-1 div.web-form{
+		margin-top: 0px;
+		margin-left: 0px;
+	}
+	footer div.section-1 div h2{
+	    font-size: 40px;
+	    text-align: center;
+	    margin-top: 70px;
+	}	
+	footer div.section-1 div p.text1{
+		text-align: center;
+		margin-top: 25px;
+	}
+	footer div.section-1 div p.text2{
+		text-align: center;
+		font-size: 32px;
+		margin: 30px auto;
+	}
+	footer div.section-1 div ul{
+		margin-left: 100px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+	footer div.section-1 div ul li{
+		margin-right: 5px;
+	}
+	footer div.section-1 div textarea{
+		max-width: 500px;
+		height: 50px;
+	}
+	footer div.container-fluid nav ul li{
+		margin-top: 10px;
+	}
+	footer div.container-fluid nav ul li a{
+		font-size: 16px;
+		margin-right: 5px;
+	}
+	footer div.menu-2 div p{
+	padding-top: 20px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/********************HEADER*******************************/
+	header{
+		height: auto;
+	}
+	header div.call-to h1{
+		margin-top: 50px;
+	}
+	header nav ul li{
+		margin-right: 20px;
+	}
+	header div.call-to a{
+		margin-bottom: 50px;
+	}
+/********************BLOCK-1*******************************/
+/*******************SECTION-1******************************/
+	section.section-1 h2{
+		margin: 30px auto;
+		padding-bottom: 30px;
+	}
+	section.section-1 div.section-1 div img{
+ 		margin: auto;
+ 		padding: 0;
+	}
+	section.section-1 div.section-1 div h3{
+    	text-align: center;
+    	margin-top: 30px;	
+	}
+	section.section-1 div.section-1 div p{
+    	text-align: center;	
+    	color: #000;
+	}
+	section.section-1 div.section-1 a{
+		margin-top: 20px;
+
+	}
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+	    font-size: 32px;
+	    text-align: center;
+	}
+	section.section-1 div.section-2 div img{
+		display: block;
+		margin-left: 0px;
+		margin-top: 50px;
+		max-width: 100%;
+		height: auto;
+	}
+	section.section-1 div.section-2 div p{
+	    text-align: center;
+	    padding-right: 0px;
+	    color: #000;
+	}
+	section.section-1 div.section-2 div a{
+	    margin: 0 auto;
+	    border: 2px solid #fff;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div img{
+		margin-top: 50px;
+	}
+	section.section-1 div.section-3 div h3{
+		margin-top: 50px;
+		margin-bottom: 0px;
+		text-align: center;
+		margin-left: 0px;
+		font-size: 32px;
+	}
+	section.section-1 div.section-3 div p{
+		margin-top: 0px;
+		text-align: center;
+		margin-left: 0px;
+	}
+	section.section-1 div.section-3 div a{
+		margin: 0 auto;
+	}
+	section.section-1 div.section-3 div {
+		margin-bottom: 50px;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1 div h3{
+		font-size: 36px;
+		margin-left: 0px;
+		text-align: center;
+		margin: auto;
+	}
+	section.section-2 div.section-1 div p{
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-bottom: 5px;
+		text-align: center;
+		line-height: 160%;
+	}
+	section.section-2 div.section-1 div a{
+		margin: auto;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 24px;
+		text-align: center;
+		padding: 40px 15px;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 24px;
+		padding: 40px 15px;
+	}
+/********************BLOCK-4*******************************/
+	section.section-4 div.section-1{
+		margin-bottom: 20px;
+	}
+	section.section-4 div.section-1 div img{
+		display: block;
+		width: 150px;
+		height: 150px;
+	}
+	section.section-4 div.section-1 div h3{
+		font-size: 40px;
+		text-align: center;
+		max-width: 100%;
+		margin: 30px auto;
+	}
+	section.section-4 div.section-1 div h4{
+    	font-size: 20px;
+    	
+	}
+/********************FOOTER*******************************/
+	footer div.menu-1{
+		height: auto;
+	}
+	footer div.section-1 div h2{
+	    font-size: 32px;
+	    text-align: center;
+	    margin-top: 70px;
+	}	
+	footer div.section-1 div p.text1{
+		text-align: center;
+		margin-top: 25px;
+	}
+	footer div.section-1 div p.text2{
+		text-align: left;
+		font-size: 24.8px;
+    	max-width: 340px;
+	}
+	footer div.section-1 div ul{
+		margin-left: 5px;
+	}
+	footer div.section-1 div ul li{
+		margin-right: 5px;
+	}
+	footer div.section-1 div.web-form{
+		margin-top: 60px;
+	}
+	footer div.section-1 div textarea {
+		max-width: 310px;
+	}
+	footer div.container-fluid nav ul li{
+		margin-top: 10px;
+	}
+	footer div.container-fluid nav ul li a{
+		font-size: 16px;
+		margin-right: 5px;
+	}
+	footer div.menu-2 div p{
+	padding-top: 20px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/********************HEADER*******************************/
+	header nav ul li{
+		margin-right: 20px;
+	}
+/********************BLOCK-1*******************************/
+/*******************SECTION-1******************************/
+	section.section-1 div.section-1 div img{
+ 		margin: auto;
+	}
+	section.section-1 div.section-1 div h3{
+    	text-align: center;
+    	margin-top: 55px;	
+	}
+	section.section-1 div.section-1 div p{
+    	text-align: center;	
+	}
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div img{
+		display: block;
+		margin-left: 0px;
+		margin-top: 185px;
+		max-width: 100%;
+		height: auto;
+	}
+	section.section-1 div.section-2 div h3{
+		margin-top: 190px;
+	    font-size: 32px;
+	    text-align: center;
+	}
+	section.section-1 div.section-2 div p{
+	    text-align: center;
+	    padding-right: 0px;
+	}
+	section.section-1 div.section-2 div a{
+	    margin: 0 auto;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div h3{
+		margin-top: 220px;
+		text-align: center;
+		margin-left: 0px;
+		font-size: 32px;
+	}
+	section.section-1 div.section-3 div p{
+		margin-top: 0px;
+		text-align: center;
+		margin-left: 0px;
+	}
+	section.section-1 div.section-3 div a{
+		margin: 0 auto;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1 div h3{
+		font-size: 32px;
+		margin-left: 0px;
+		text-align: center;
+	}
+	section.section-2 div.section-1 div p{
+		margin-left: 0px;
+		text-align: center;
+	}
+	section.section-2 div.section-1 div a{
+		margin: auto;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 24px;
+		text-align: center;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 24px;
+	}
+/********************BLOCK-4*******************************/
+	section.section-4 div.section-1 div h3{
+		font-size: 50px;
+		text-align: center;
+		max-width: 100%;
+	}
+	section.section-4 div.section-1 div h4{
+    font-size: 24px;
+	}
+/********************FOOTER*******************************/
+	footer div.section-1 div h2{
+	    font-size: 50px;
+	    text-align: center;
+	}	
+	footer div.section-1 div p.text1{
+		text-align: center;
+	}
+	footer div.section-1 div p.text2{
+		text-align: center;
+	}
+	footer div.section-1 div ul{
+		margin-left: 30px;
+	}
+	footer div.section-1 div ul li{
+		margin-right: 20px;
+	}
+	footer div.section-1 div textarea {
+		max-width: 430px;
+	}
+}
+
+@media (min-width: 1200px) and (max-width: 1530.98px) {
+/********************BLOCK-1*******************************/
+/*******************SECTION-2******************************/
+	section.section-1 div.section-2 div h3{
+		margin-top: 220px;
+	}	
+	section.section-1 div.section-2 div a{
+		margin-top: 40px;
+	}	
+	section.section-1 div.section-2 div img{
+		display: block;
+		margin-left: 0px;
+		margin-top: 185px;
+		max-width: 100%;
+		height: auto;
+	}
+/*******************SECTION-3******************************/
+	section.section-1 div.section-3 div h3{
+		margin-top: 250px;
+		margin-left: 50px;
+	}
+	section.section-1 div.section-3 div p{
+		margin-left: 50px;
+	}
+	section.section-1 div.section-3 div a{
+		margin-left: 50px;
+		margin-top: 40px;
+	}
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1 div h3{
+		font-size: 36px;
+		margin-left: 50px;
+	}
+	section.section-2 div.section-1 div p{
+		margin-left: 50px;
+	}
+	section.section-2 div.section-1 div a{
+		margin-left: 50px;
+		margin-top: 40px;
+	}
+	section.section-4 div.section-1 div h3{
+		text-align: center;
+		max-width: 100%;
+	}
+	section.section-4 div.section-1 div h4{
+    font-size: 24px;
+	}
+	footer div.section-1 div textarea {
+		max-width: 520px;
+	}
+/********************BLOCK-3*******************************/
+	section.section-3 div.section-1 div h4{
+		font-size: 32px;
+		text-align: center;
+	}
+	section.section-3 div.section-1 div h4:hover{
+		font-size: 32px;
+	}
+}
+
+@media (min-width: 1530px) and (max-width: 2021.98px) {
+/********************BLOCK-2*******************************/
+	section.section-2 div.section-1 div h3{
+		font-size: 50px;
+		margin-left: 70px;
+	}
+	section.section-2 div.section-1 div p{
+		margin-left: 70px;
+	}
+	section.section-2 div.section-1 div a{
+		margin-top: 60px;
+		margin-left: 70px;
+	}
+}
+@media (min-width: 2022px) and (max-width: 4000px) {
+	body{
+		max-width: 2000px;
+	}
+}
+
