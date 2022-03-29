@@ -1,7 +1,7 @@
 # HTML-CSS-Making-up-AUSTERA
 
-readme - Ru
-readme - Eng - in progress
+Readme - Ru<br>
+Readme - Eng - !in progress <br>
 
 Мой первый проект по созданию полноценной страницы сайта (лендинг пейдж). 
 Для обучения использовался обучающий материал с youtube автора 
