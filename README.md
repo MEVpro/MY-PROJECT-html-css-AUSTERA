@@ -1,4 +1,4 @@
-# HTML-CSS-Making-up-AUSTERA
+# HTML-CSS-Project-AUSTERA
 
 **Readme - RU**<br>
 Readme - ENG - in progress<br>
